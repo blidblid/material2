@@ -2189,10 +2189,10 @@
   dependencies:
     yaml "*"
 
-"@types/youtube@^0.0.40":
-  version "0.0.40"
-  resolved "https://registry.yarnpkg.com/@types/youtube/-/youtube-0.0.40.tgz#93502cc42e4ce06a59db1e2d6fd986260dca31d3"
-  integrity sha512-gMiHfad1VGQ7CoXkhrjWiROPpLTSJydvBO73Z9JIIZ+FpZ2BX9q9Zf/tanP+KUTFoKUqHVv6+xt7sF2gztQ4Og==
+"@types/youtube@^0.0.44":
+  version "0.0.44"
+  resolved "https://registry.yarnpkg.com/@types/youtube/-/youtube-0.0.44.tgz#7e8d0bc792f7dbda645118a5cf01b598a8308ba3"
+  integrity sha512-bvBETO6kkqq32Yuk5CI3k0V/UCOTzhsqImJsboABsnCUA8BzawvnrgaRe51wqXQPqZkTwLFkRvhS7iSvsgp4pg==
 
 "@typescript-eslint/typescript-estree@^2.29.0":
   version "2.34.0"
